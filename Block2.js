@@ -1,4 +1,4 @@
-class Block{
+class Block2{
     constructor(x, y, width, height) {
         var options = {
             restitution :0.4,
